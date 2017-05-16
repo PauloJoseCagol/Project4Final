@@ -1,6 +1,5 @@
 package com.javaweb.model.rest.facade;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import javax.inject.Inject;
